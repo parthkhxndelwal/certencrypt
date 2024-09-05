@@ -1,4 +1,5 @@
 # CertEncrypt - Secure Certification Management System
+[View Latest Deploy at Github](https://cert-encrypt.vercel.app)
 ## Project Aim and Goal
 
 CertEncrypt is a comprehensive web application designed to provide organizations with a secure certification management system. The primary goals of this project are:
