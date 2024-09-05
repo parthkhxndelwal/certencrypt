@@ -1,11 +1,9 @@
-# Author: Om Mishra (om-mishra@projectrexa.dedyn.io)
-# Last Modified: 2/12/2023 by Om Mishra
+
 
 import os
 from dotenv import load_dotenv
 
 load_dotenv()  # Loads environment variables from .env file
-
 
 class APP_CONFIG:
     def __init__(self, app_name, app_version, app_mode):
