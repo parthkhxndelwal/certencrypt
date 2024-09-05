@@ -1,22 +1,19 @@
-# CertSecure - Secure Certification Management System
-
-![CertSecure Logo](https://raw.githubusercontent.com/Om-Mishra7/KRMU-OS-Expo_2023/master/app/static/logo.png)
-
+# CertEncrypt - Secure Certification Management System
 ## Project Aim and Goal
 
-CertSecure is a comprehensive web application designed to provide organizations with a secure certification management system. The primary goals of this project are:
+CertEncrypt is a comprehensive web application designed to provide organizations with a secure certification management system. The primary goals of this project are:
 
-1. **Security**: CertSecure emphasizes security in managing certifications and domains. It implements secure password hashing, email verification, and uses industry-standard encryption practices.
+1. **Security**: CertEncrypt emphasizes security in managing certifications and domains. It implements secure password hashing, email verification, and uses industry-standard encryption practices.
 
 2. **User-Friendly Certification Management**: The system offers a user-friendly interface for organizations to manage their certifications efficiently. This includes features like user registration, organization signup, and a dashboard for authenticated users.
 
-3. **Domain Verification**: CertSecure incorporates a robust domain verification process using TXT records. This ensures that organizations have a secure and reliable method to prove domain ownership.
+3. **Domain Verification**: CertEncrypt incorporates a robust domain verification process using TXT records. This ensures that organizations have a secure and reliable method to prove domain ownership.
 
 4. **Integration with External Services**: The system integrates with external services such as SendinBlue for email notifications and reCAPTCHA for form validation, enhancing overall functionality and security.
 
 ## How to Contribute
 
-We welcome and encourage small contributions from the community to improve and enhance CertSecure. Here's how you can contribute:
+We welcome and encourage small contributions from the community to improve and enhance CertEncrypt. Here's how you can contribute:
 
 ### Reporting Issues
 
@@ -42,13 +39,13 @@ Follow the existing code style and structure. If there are specific conventions 
 
 ## Acknowledgments
 
-We appreciate the contributions of the open-source community to make CertSecure a robust and secure certification management system.
+We appreciate the contributions of the open-source community to make CertEncrypt a robust and secure certification management system.
 
-Thank you for considering contributing to CertSecure! Your efforts help make this project better for everyone.
+Thank you for considering contributing to CertEncrypt! Your efforts help make this project better for everyone.
 
 ## License
 
-CertSecure is currently only available for open-source viewing and contributions, and is not licensed for commercial or personal use. Please contact the project maintainers for more information.
+CertEncrypt is currently only available for open-source viewing and contributions, and is not licensed for commercial or personal use. Please contact the project maintainers for more information.
 
 Do not use this project for commercial or personal purposes without explicit permission from the maintainers.
 
